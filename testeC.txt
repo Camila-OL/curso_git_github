@@ -1,0 +1,2 @@
+era uma vez, uma pessoa testanto o git, ele abriu o editor
+e começou a digitar um texto.
